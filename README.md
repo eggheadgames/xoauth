@@ -28,6 +28,9 @@ Use the [go tool](http://weekly.golang.org/cmd/go/) to install XOAuth:
 
     go get github.com/agamz/xoauth
 
+## Docs
+
+Docs are here: http://godoc.org/github.com/agamz/xoauth. 
 
 ## Usage
 
